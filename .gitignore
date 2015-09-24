@@ -1,11 +1,15 @@
+.ipynb_checkpoints/
 .DS_store
 *.pdf
 SO/
-proposal.html
+*.html
 
 *~
 *.csv
 *.txt
+*.xls
+*.sqlite
+*.hdf
 *.zip
 *.png
 sea/
